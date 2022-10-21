@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS , BOOTSTRAP, JAVASCRİPT AND PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... instagram: @memcivik my number: +90 552 239 72 73
+- 📫 How to reach me ... instagram: @memcivik Twitter: mehmetdiyorrki
 
 <!---
 memcivik/memcivik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
