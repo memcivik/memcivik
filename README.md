@@ -1,4 +1,4 @@
-I'm Mehmet Çivik, a fullstack developer from Turkey. Working at HAVELSAN as a software developer.
+I'm Mehmet Çivik, a Back-End developer from Turkey. Working at Frealancer as a software developer.
 
 ⚒️ Golang, PHP, Laravel, Javascript, Jquery , Html, Css, Bootstrap.
 🌐 Find me on memcivik.dev, LinkedIn
