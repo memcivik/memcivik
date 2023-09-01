@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Mehmet Çivik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS , BOOTSTRAP, JAVASCRİPT AND PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... instagram: @memcivik Twitter: mehmetdiyorrki
+I'm Mehmet Çivik, a fullstack developer from Turkey. Working at HAVELSAN as a software developer.
+
+⚒️ Golang, PHP, Laravel, Javascript, Jquery , Html, Css, Bootstrap.
+🌐 Find me on memcivik.dev, LinkedIn
 
 <!---
 memcivik/memcivik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
